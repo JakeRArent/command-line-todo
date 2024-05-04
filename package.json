@@ -2,6 +2,7 @@
   "name": "command-line-todo",
   "version": "1.0.0",
   "description": "Command line todo application with all the features",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo 'We really need to add some testing!!!'",
